@@ -37,9 +37,26 @@ hr {
     flex-direction: row;
 }
 
+.page-container {
 
+}
 
-#footer {
+.second-container {
+    background-image: url('assets/images/Bro_Hof_Slott_Bro.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.third-container {
+    
+
+}
+
+.fourth-container {
+
+}
+
+.footer-container {
 }
 
 @media only screen and (max-width: 599px){
